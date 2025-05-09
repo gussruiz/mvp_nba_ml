@@ -1,4 +1,8 @@
 mvp/*
 !mvp/
+
 player/*
 !player/
+
+team_stats/*
+!team_stats/
